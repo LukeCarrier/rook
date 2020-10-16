@@ -1,0 +1,27 @@
+apiVersion: v1
+entries:
+  rook-ceph:
+  - apiVersion: v1
+    created: "2020-10-16T16:18:50.922717944Z"
+    description: File, Block, and Object Storage Services for your Cloud-Native Environment
+    digest: 26a569386a9e84f56057a28caa08c74604f56f428af833445c0d4ffa04814e12
+    icon: https://rook.io/images/rook-logo.svg
+    name: rook-ceph
+    sources:
+    - https://github.com/rook/rook
+    urls:
+    - https://github.com/LukeCarrier/rook/releases/download/rook-ceph-0.0.1/rook-ceph-0.0.1.tgz
+    version: 0.0.1
+  rook-nfs:
+  - apiVersion: v1
+    created: "2020-10-16T16:18:51.031496311Z"
+    description: File, Block, and Object Storage Services for your Cloud-Native Environment
+    digest: 821024146d51243c56b9da7bdb09f20c1a989cfb11e93e4a0ee7dc386ec2d398
+    icon: https://rook.io/images/rook-logo.svg
+    name: rook-nfs
+    sources:
+    - https://github.com/rook/rook
+    urls:
+    - https://github.com/LukeCarrier/rook/releases/download/rook-nfs-0.0.1/rook-nfs-0.0.1.tgz
+    version: 0.0.1
+generated: "2020-10-16T16:18:50.739222782Z"
